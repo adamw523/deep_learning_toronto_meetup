@@ -1,0 +1,3 @@
+[submodule "DeepLearningTutorials"]
+	path = DeepLearningTutorials
+	url = git://github.com/lisa-lab/DeepLearningTutorials.git
