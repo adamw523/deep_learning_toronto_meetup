@@ -2,3 +2,4 @@ private
 tmp
 *pyc
 .DS_Store
+.ipynb_checkpoints
